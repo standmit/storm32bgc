@@ -20,4 +20,5 @@
 *.png binary
 *.jpg binary
 *.zip binary
-
+*.brd binary
+*.cam binary
